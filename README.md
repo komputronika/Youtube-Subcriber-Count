@@ -5,9 +5,10 @@ Program untuk menampilkan jumlah subscriber Youtube pada display 8 digit 7 segme
 ## Instalasi
 
 1. Download dan buka file YoutubeAPI.ino di Arduino IDE.
-2. Edit Wifi dan password, serta ketik API KEY dan CHANNEL ID Anda.
-3. Upload sketch ke NodeMCU  
-4. Ikuti skema di bawah ini:
+3. Install library yang diperlukan (lihat daftarnya di sketch)
+3. Edit Wifi dan password, serta ketik API KEY dan CHANNEL ID Anda.
+4. Upload sketch ke NodeMCU  
+5. Ikuti skema di bawah ini:
 
 ![alt text](https://i.imgur.com/CyH4RfY.png)
 
