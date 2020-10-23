@@ -37,16 +37,13 @@
 
 //-------------- Ubah di sini -------------------
 
-// Your WIFI name (SSID) and password
+// Ketik nama WIFI (SSID) and password anda
 char ssid[]        = "Wifi"; 
 char password[]    = "password"; 
 
-// Your google apps API Token and channel's URL
+// Copy & paste API Token and channel ID Youtube anda
 #define API_KEY    "api-key-youtube-anda"
 #define CHANNEL_ID "channel-id-anda"
-
-// Cara mendapatkan API Key Youtube:
-// https://www.slickremix.com/docs/get-api-key-for-youtube/
 
 //---------------------------------------------
 
